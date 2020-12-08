@@ -10487,7 +10487,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
 }
-
+.social {
+  margin-left: 33%;
+}
 .footer {
   text-align: center;
   font-size: 0.9rem;
