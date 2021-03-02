@@ -2461,7 +2461,7 @@ fieldset:disabled a.btn {
   border-color: #fec503;*/
   background-color:  #59e220;
   border-color: #59e220;
-  box-shadow: 0 0 0 0.2rem rgba(254, 216, 84, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(89, 226, 32);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
